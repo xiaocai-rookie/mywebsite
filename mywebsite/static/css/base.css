@@ -1,0 +1,184 @@
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+img {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset,
+img {
+    border: none;
+}
+
+button,
+input {
+    outline: none;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+th,
+var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+body {
+    color: #333;
+    font: "SimSun", "微软雅黑", "Arial Narrow", HELVETICA;
+    background: #fff;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #666;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #ff8400;
+    text-decoration: underline;
+}
+
+html {
+    font-size: 10px;
+}
+
+@media only screen and (min-width: 481px) {
+    html {
+        font-size: 15px!important;
+    }
+}
+
+@media only screen and (min-width: 561px) {
+    html {
+        font-size: 20px!important;
+    }
+}
+
+@media only screen and (min-width: 641px) {
+    html {
+        font-size: 25px!important;
+    }
+}
+
+@media only screen and (min-width: 741px) {
+    html {
+        font-size: 30px!important;
+    }
+}
+
+@media only screen and (min-width: 841px) {
+    html {
+        font-size: 35px!important;
+    }
+}
+
+@media only screen and (min-width: 941px) {
+    html {
+        font-size: 40px!important;
+    }
+}
+
+@media only screen and (min-width: 1041px) {
+    html {
+        font-size: 45px!important;
+    }
+}
+
+@media only screen and (min-width: 1141px) {
+    html {
+        font-size: 50px!important;
+    }
+}
+
+@media only screen and (min-width: 1241px) {
+    html {
+        font-size: 55px!important;
+    }
+}
+
+@media only screen and (min-width: 1341px) {
+    html {
+        font-size: 60px!important;
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    html {
+        font-size: 65px!important;
+    }
+}
+
+@media only screen and (min-width: 1541px) {
+    html {
+        font-size: 70px!important;
+    }
+}
+
+@media only screen and (min-width: 1641px) {
+    html {
+        font-size: 75px!important;
+    }
+}
+
+@media only screen and (min-width: 1741px) {
+    html {
+        font-size: 80px!important;
+    }
+}
+
+@media only screen and (min-width: 1841px) {
+    html {
+        font-size: 85px!important;
+    }
+}
+
+@media only screen and (min-width: 1941px) {
+    html {
+        font-size: 90px!important;
+    }
+}
+
+@media only screen and (min-width: 2041px) {
+    html {
+        font-size: 95px!important;
+    }
+}
+
+@media only screen and (min-width: 2141px) {
+    html {
+        font-size: 100px!important;
+    }
+}
